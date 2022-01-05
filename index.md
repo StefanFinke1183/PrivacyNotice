@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+<html>
+<head>
+<title>Datenschutzbestimmungen</title>
+</head>
+<body>
+<h1>Datenschutzbestimmungen</h1>
+Stefan Finke hat die Wichtel Auslosung App als kostenlose App erstellt. Dieser SERVICE wird von Stefan Finke kostenlos zur Verfügung gestellt und ist für die Nutzung ohne Einschränkungen gedacht. Diese Seite dient dazu, Besucher über meine Richtlinien bezüglich der Sammlung, Verwendung und Offenlegung von persönlichen Informationen zu informieren, falls sich jemand dazu entschließt, meinen Service zu nutzen. Wenn Sie sich dafür entscheiden, meinen Service zu nutzen, erklären Sie sich mit der Sammlung und Nutzung von Informationen in Bezug auf diese Richtlinie einverstanden. Die von mir gesammelten persönlichen Daten werden für die Bereitstellung und Verbesserung des Dienstes verwendet. Ich werde Ihre Daten nur wie in dieser Datenschutzrichtlinie beschrieben verwenden oder weitergeben. Die in dieser Datenschutzrichtlinie verwendeten Begriffe haben dieselbe Bedeutung wie in unseren Allgemeinen Geschäftsbedingungen, die unter Wichtel Auslosung einsehbar sind, sofern in dieser Datenschutzrichtlinie nicht anders definiert.
+<h2>Sammlung und Verwendung von Informationen</h2>
+Um Ihnen die Nutzung unseres Dienstes zu erleichtern, kann es sein, dass ich Sie auffordere, uns bestimmte personenbezogene Daten zur Verfügung zu stellen, einschließlich, aber nicht beschränkt auf Namen. Die App nutzt Dienste von Drittanbietern, die möglicherweise Informationen sammeln, mit denen Sie identifiziert werden können. Link zu den Datenschutzrichtlinien von Drittanbietern, die von der App genutzt werden:
 
-You can use the [editor on GitHub](https://github.com/StefanFinke1183/PrivacyNotice/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<ul>
+	<li><a href="https://www.google.com/policies/privacy/">Google Play Services</a></li>
+</ul>
+<ul>
+	<li><a href="https://support.google.com/admob/answer/6128543?hl=de">AdMob</a></li>
+</ul>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h2>Protokolldaten</h2>
+Ich möchte Sie darüber informieren, dass ich bei der Nutzung meines Dienstes im Falle eines Fehlers in der App Daten und Informationen (durch Produkte von Drittanbietern) auf Ihrem Telefon sammle, die sogenannten Logdaten. Diese Protokolldaten können Informationen wie die Internetprotokolladresse ("IP") Ihres Geräts, den Gerätenamen, die Version des Betriebssystems, die Konfiguration der App bei der Nutzung meines Dienstes, die Uhrzeit und das Datum Ihrer Nutzung des Dienstes und andere Statistiken enthalten.
+Cookies
+Cookies sind Dateien mit einer kleinen Menge an Daten, die üblicherweise als anonyme eindeutige Identifikatoren verwendet werden. Sie werden von den Websites, die Sie besuchen, an Ihren Browser gesendet und im internen Speicher Ihres Geräts gespeichert. Dieser Dienst verwendet diese "Cookies" nicht ausdrücklich. Die App kann jedoch Code und Bibliotheken von Drittanbietern verwenden, die "Cookies" nutzen, um Informationen zu sammeln und ihre Dienste zu verbessern. Sie haben die Möglichkeit, diese Cookies entweder zu akzeptieren oder abzulehnen und zu erfahren, wann ein Cookie an Ihr Gerät gesendet wird. Wenn Sie sich entscheiden, unsere Cookies abzulehnen, können Sie möglicherweise einige Teile dieses Dienstes nicht nutzen.
+Service-Anbieter
+Es kann sein, dass ich aus den folgenden Gründen Drittunternehmen und Einzelpersonen einsetze:
+<ul>
+	<li>Um meinen Dienst zu erleichtern;</li>
+</ul>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/StefanFinke1183/PrivacyNotice/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<ul>
+	<li>Zur Bereitstellung des Dienstes in meinem Namen;</li>
+</ul>
+<ul>
+	<li>um dienstbezogene Dienstleistungen zu erbringen; oder</li>
+</ul>
+<ul>
+	<li>Um mich bei der Analyse der Nutzung unseres Dienstes zu unterstützen.</li>
+</ul>
+Ich möchte die Nutzer dieses Dienstes darüber informieren, dass diese Dritten Zugang zu ihren persönlichen Daten haben. Der Grund dafür ist, dass sie die ihnen zugewiesenen Aufgaben in unserem Namen ausführen. Sie sind jedoch verpflichtet, die Informationen nicht für andere Zwecke weiterzugeben oder zu verwenden.
+<h2>Sicherheit</h2>
+Ich schätze Ihr Vertrauen, wenn Sie uns Ihre persönlichen Daten zur Verfügung stellen, und deshalb bemühen wir uns, kommerziell akzeptable Mittel zu deren Schutz einzusetzen. Denken Sie jedoch daran, dass keine Methode der Übertragung über das Internet oder der elektronischen Speicherung zu 100 % sicher und zuverlässig ist, und ich kann keine absolute Sicherheit garantieren.
+<h2>Links zu anderen Seiten</h2>
+Dieser Dienst kann Links zu anderen Websites enthalten. Wenn Sie auf einen Link eines Dritten klicken, werden Sie zu dieser Site weitergeleitet. Beachten Sie, dass diese externen Sites nicht von mir betrieben werden. Ich empfehle Ihnen daher dringend, die Datenschutzrichtlinien dieser Websites zu lesen. Ich habe keine Kontrolle über und übernehme keine Verantwortung für den Inhalt, die Datenschutzrichtlinien oder die Praktiken von Websites oder Diensten Dritter.
+<h2>Privatsphäre von Kindern</h2>
+Diese Dienste richten sich nicht an Personen unter 13 Jahren. Ich sammle nicht wissentlich persönlich identifizierbare Informationen von Kindern unter 13 Jahren. Sollte ich feststellen, dass ein Kind unter 13 Jahren mir persönliche Daten zur Verfügung gestellt hat, lösche ich diese sofort von unseren Servern. Wenn Sie ein Elternteil oder Erziehungsberechtigter sind und wissen, dass Ihr Kind uns personenbezogene Daten zur Verfügung gestellt hat, setzen Sie sich bitte mit mir in Verbindung, damit ich die erforderlichen Maßnahmen ergreifen kann.
+Änderungen an dieser Datenschutzrichtlinie
+Ich kann unsere Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. Wir empfehlen Ihnen daher, diese Seite regelmäßig auf Änderungen zu überprüfen. Ich werde Sie über alle Änderungen informieren, indem ich die neue Datenschutzrichtlinie auf dieser Seite veröffentliche. Diese Richtlinie ist ab dem 05.01.2022 gültig.
+<h2>Kontakt</h2>
+Wenn Sie Fragen oder Anregungen zu meiner Datenschutzrichtlinie haben, zögern Sie nicht, mich unter finkestefan.fs@gmail.com zu kontaktieren.
+<body>
+<html>
